@@ -1,0 +1,1 @@
+The goal of this project was to build my own basic design system for a website. In essence, building a website to help me build more websites in the future. So I decided to collect some colors, fonts, styles and buttons to help choose which one is the most effective for a website in the future.  
